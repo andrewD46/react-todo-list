@@ -1,3 +1,9 @@
-# react-todo-list
+# React-todo-list
 
-DEMO: https://react-todo-15281.web.app
+**DEMO: https://react-todo-15281.web.app
+
+
+Created using **JS**, **React**, **Firebase**, **Bootstrap**.
+
+# Author
+Made by Andrew Denisevich **@andrewD46**
