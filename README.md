@@ -6,4 +6,4 @@
 Created using **JS**, **React**, **Firebase**, **Bootstrap**.
 
 ## Author
-Made by Andrew Denisevich **@andrewD46**
+Made by Andrew Denisevich **@AndrewD46**
